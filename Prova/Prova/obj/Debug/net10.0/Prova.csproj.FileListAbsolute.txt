@@ -1,0 +1,14 @@
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\bin\Debug\net10.0\Prova.exe
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\bin\Debug\net10.0\Prova.deps.json
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\bin\Debug\net10.0\Prova.runtimeconfig.json
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\bin\Debug\net10.0\Prova.dll
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\bin\Debug\net10.0\Prova.pdb
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\Prova.AssemblyInfoInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\Prova.AssemblyInfo.cs
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\Prova.csproj.CoreCompileInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\Prova.dll
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\refint\Prova.dll
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\Prova.pdb
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\Prova.genruntimeconfig.cache
+C:\Users\ITS-Utente07\Documents\C#\Prova\Prova\obj\Debug\net10.0\ref\Prova.dll

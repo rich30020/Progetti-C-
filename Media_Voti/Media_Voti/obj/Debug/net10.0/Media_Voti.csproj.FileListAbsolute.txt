@@ -1,0 +1,14 @@
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\bin\Debug\net10.0\Media_Voti.exe
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\bin\Debug\net10.0\Media_Voti.deps.json
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\bin\Debug\net10.0\Media_Voti.runtimeconfig.json
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\bin\Debug\net10.0\Media_Voti.dll
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\bin\Debug\net10.0\Media_Voti.pdb
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\Media_Voti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\Media_Voti.AssemblyInfoInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\Media_Voti.AssemblyInfo.cs
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\Media_Voti.csproj.CoreCompileInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\Media_Voti.dll
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\refint\Media_Voti.dll
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\Media_Voti.pdb
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\Media_Voti.genruntimeconfig.cache
+C:\Users\ITS-Utente07\Documents\C#\Media_Voti\Media_Voti\obj\Debug\net10.0\ref\Media_Voti.dll

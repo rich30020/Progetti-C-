@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Gestione_Stringhe/1.0.0": {
+        "runtime": {
+          "Gestione_Stringhe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestione_Stringhe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

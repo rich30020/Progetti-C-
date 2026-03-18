@@ -1,0 +1,14 @@
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\bin\Debug\net10.0\Liste___.exe
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\bin\Debug\net10.0\Liste___.deps.json
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\bin\Debug\net10.0\Liste___.runtimeconfig.json
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\bin\Debug\net10.0\Liste___.dll
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\bin\Debug\net10.0\Liste___.pdb
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\Liste___.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\Liste___.AssemblyInfoInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\Liste___.AssemblyInfo.cs
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\Liste___.csproj.CoreCompileInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\Liste___.dll
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\refint\Liste___.dll
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\Liste___.pdb
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\Liste___.genruntimeconfig.cache
+C:\Users\ITS-Utente07\Documents\C#\Liste___\Liste___\obj\Debug\net10.0\ref\Liste___.dll

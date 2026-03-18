@@ -1,0 +1,14 @@
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\bin\Debug\net10.0\Classi.exe
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\bin\Debug\net10.0\Classi.deps.json
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\bin\Debug\net10.0\Classi.runtimeconfig.json
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\bin\Debug\net10.0\Classi.dll
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\bin\Debug\net10.0\Classi.pdb
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\Classi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\Classi.AssemblyInfoInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\Classi.AssemblyInfo.cs
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\Classi.csproj.CoreCompileInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\Classi.dll
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\refint\Classi.dll
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\Classi.pdb
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\Classi.genruntimeconfig.cache
+C:\Users\ITS-Utente07\Documents\C#\Classi\Classi\obj\Debug\net10.0\ref\Classi.dll

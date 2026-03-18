@@ -1,0 +1,14 @@
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\bin\Debug\net10.0\Calcoli.exe
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\bin\Debug\net10.0\Calcoli.deps.json
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\bin\Debug\net10.0\Calcoli.runtimeconfig.json
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\bin\Debug\net10.0\Calcoli.dll
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\bin\Debug\net10.0\Calcoli.pdb
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\Calcoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\Calcoli.AssemblyInfoInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\Calcoli.AssemblyInfo.cs
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\Calcoli.csproj.CoreCompileInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\Calcoli.dll
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\refint\Calcoli.dll
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\Calcoli.pdb
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\Calcoli.genruntimeconfig.cache
+C:\Users\ITS-Utente07\Documents\C#\Calcoli\Calcoli\obj\Debug\net10.0\ref\Calcoli.dll

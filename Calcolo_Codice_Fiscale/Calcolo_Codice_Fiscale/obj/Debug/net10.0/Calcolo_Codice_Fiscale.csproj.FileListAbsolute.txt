@@ -1,0 +1,14 @@
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\bin\Debug\net10.0\Calcolo_Codice_Fiscale.exe
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\bin\Debug\net10.0\Calcolo_Codice_Fiscale.deps.json
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\bin\Debug\net10.0\Calcolo_Codice_Fiscale.runtimeconfig.json
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\bin\Debug\net10.0\Calcolo_Codice_Fiscale.dll
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\bin\Debug\net10.0\Calcolo_Codice_Fiscale.pdb
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\Calcolo_Codice_Fiscale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\Calcolo_Codice_Fiscale.AssemblyInfoInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\Calcolo_Codice_Fiscale.AssemblyInfo.cs
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\Calcolo_Codice_Fiscale.csproj.CoreCompileInputs.cache
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\Calcolo_Codice_Fiscale.dll
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\refint\Calcolo_Codice_Fiscale.dll
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\Calcolo_Codice_Fiscale.pdb
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\Calcolo_Codice_Fiscale.genruntimeconfig.cache
+C:\Users\ITS-Utente07\Documents\C#\Calcolo_Codice_Fiscale\Calcolo_Codice_Fiscale\obj\Debug\net10.0\ref\Calcolo_Codice_Fiscale.dll
